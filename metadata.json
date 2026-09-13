@@ -1,0 +1,6 @@
+{
+  "name": "Simplify AI - Агрегатор нейросетей",
+  "description": "ИИ агрегатор с выбором бесплатных моделей через IO Intelligence, liquid glass эффектом, историей диалогов, Markdown и экспортом в PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
